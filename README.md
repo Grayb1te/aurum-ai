@@ -8,7 +8,6 @@ Aurum is a lightweight, modular reasoning system built for learning AI fundament
 - Simple long-term memory with confidence
 - Action comparison using a simulated world model
 - Rule-based reasoning
-- Rule-based reasoning
 
 ## Status
 - Current version: v0.3.1
